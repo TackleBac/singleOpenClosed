@@ -1,3 +1,10 @@
+/*
+Name: Ricky Small
+Email: G00352166@gmit.ie
+Date: 01/05/2021
+Title: Main Message edit in accordance to The Dependency Inversion Principal”
+*/
+
 package ie.gmit.exercise;
 import java.io.FileWriter;
 import java.io.IOException;
